@@ -1,0 +1,28 @@
+body {
+  text-align: center;
+  background-color: #282c34;
+  color: crimson;
+}
+
+h1 {
+  text-align: center;
+  text-decoration: underline;
+  color: crimson;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+button:hover {
+  background-color: #282c34;
+}
+
+button {
+  background-color: crimson;
+  color: snow;
+  border: 3px solid crimson;
+  border-radius: 30px;
+  margin: 10px;
+}
+
+p {
+  font-size: 20px;
+}
